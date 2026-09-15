@@ -5,7 +5,7 @@
 > paragraph): slots your script fills from your own receipts, your own winner
 > file, and your own offer, never content to imitate.
 > This is an EXCERPT of a 16-minute script, not the whole file: the hook, one run
-> stretch with its full demo triplet, the close, and the six alt takes. What transfers
+> stretch with its full demo triplet, and the close. What transfers
 > is the format: the markers table, the demo density, the performance cues, and how
 > fourth-grade sentences read out loud at this length.
 > On numbers: the script says every dollar amount in spoken words, because the founder
@@ -224,28 +224,6 @@ Stop choosing. Start.
 > The bookend is self-aware ("You saw the numbers at the start"), never a verbatim
 > repeat. One ask, at the close, matching the real automation. The curiosity gap to
 > the next video is one sentence. No wind-down, no signalling the ending early.
-
----
-
-## Hook alt takes (record in the same sitting, ~2 minutes) `[SLOT: all six lines]`
-
-Six alternate first lines, one take each, straight to camera, in the same sitting.
-They stand by for a hook swap if retention says the first one missed.
-
-1. "I found my ten thousand dollar business idea in thirty minutes. Claude Code
-   did the research. And the tool is free, link below."
-2. "Everyone switches niches. This one page ends it."
-3. "My market called my own product AI slop. Best thing that ever happened to my
-   offer."
-4. "Claude Code would not price my offer. I had to type the number myself. That
-   is why I trust it."
-5. "A strategy firm asks these questions for fifty grand. This asks them free, in
-   thirty minutes. Link below."
-6. "One no used to make me quit. Ten times in a row. This is what ended it."
-
-> One angle each: the number, the pain, the objection, the curiosity gap, the
-> giveaway, the transformation. They are the script's final section, never a
-> separate file.
 
 ---
 
