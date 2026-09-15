@@ -30,7 +30,7 @@ Layer: screen
 on screen from second one.
 **Target runtime:** ~16:00 at 110 wpm. Hook = one sentence + the roadmap (the system in
 three) as ONE section (2026-08-28 lock).
-**The giveaway:** the skill is public and free at
+**The giveaway:** the agent is public and free at
 `https://github.com/AI-ChrisLee/the-winning-offer` (link goes in the description).
 `[SLOT: the giveaway; yours is whatever you actually ship free with this video, or
 nothing, and then the hook's third move is the single action line instead]`

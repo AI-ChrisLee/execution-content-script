@@ -26,7 +26,7 @@
 
 Layer: screen
 
-Evidence base: `references/script-cage.md` (shipped with this skill). Target 15-16 minutes.
+Evidence base: `references/script-cage.md` (shipped with this agent). Target 15-16 minutes.
 The finished card is on screen from second one and stays visible under the hook.
 
 ## The route
@@ -83,7 +83,7 @@ Every beat below is a slot. What transfers is the SHAPE: numbered beats, each
 one ending in a visible artifact, a stakes-flag line before the key moment, one
 real pattern-break, the wait jumped, a mid re-grade, and the mid CTA at the
 first marquee reveal. What does not transfer is the content: this run demos a
-packaged skill, so beats 2-5 and 7-15 mirror that skill's own run map one to
+packaged agent, so beats 2-5 and 7-15 mirror that agent's own run map one to
 one. A founder demoing their own process mirrors THEIR real step list instead,
 gathered by asking.
 
@@ -93,8 +93,8 @@ and what it produces matches the document from second one. The webcam bubble sta
 the whole run. Variety comes from camera pushes and zooms on what Claude prints, never
 from leaving the app.
 
-1. Install, one breath. `[SCREEN: Claude Code, the skill file landing in the folder]`
-   See: the skill file in the folder.
+1. Install, one breath. `[SCREEN: Claude Code, the agent file landing in the folder]`
+   See: the agent file in the folder.
 2. The five questions, full screen and readable, then JUMP-CUT to the answers
    already filled in, narrated over the cut (no live typing). Say it here: "this is
    the most important moment in the run; these answers become the document."
@@ -121,7 +121,7 @@ from leaving the app.
 7. The market map: who wins, what they charge, the empty seat.
    `[SCREEN: Claude Code, the operator table printing, push on the empty-seat row]`
    See: the table as Claude prints it, camera push on the empty-seat row.
-8. Score check, narration over the gates graphic (the skill grades once, at the
+8. Score check, narration over the gates graphic (the agent grades once, at the
    end; this is me reading progress): "three of the seven already have receipts.
    Four to go." `[SCREEN: the scorecard slide, 3 of 7 ticked]` See: the scorecard ticking 3 of 7.
 9. It proposes a model with proof, then stops. The price is mine to type: "it never

@@ -1,8 +1,8 @@
 # The Money Driven Script
 
-This skill is a base. Once you have done it your way, tell your squad "update the skill to do it like this."
+This agent is a base. Once you have done it your way, tell your squad "update the agent to do it like this."
 
-**Install.** Open Claude Code in your company folder and paste: "Install this skill:
+**Install.** Open Claude Code in your company folder and paste: "Install this agent:
 https://github.com/AI-ChrisLee/the-money-driven-script. Clone the whole folder into .claude/skills
 as the-money-driven-script, without the .git folder."
 

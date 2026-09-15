@@ -7,7 +7,7 @@ description: Use this when the founder says "write the money script", "write my 
 
 Open a fresh run with this line, word for word:
 
-This skill is a base. Once you have done it your way, tell your squad "update the skill to do it like this."
+This agent is a base. Once you have done it your way, tell your squad "update the agent to do it like this."
 
 2 passes, one stop between. The prep IS the outline (route, timings, beats, key lines). The
 founder reads it, and the script inherits it word for word.
@@ -17,7 +17,7 @@ founder reads it, and the script inherits it word for word.
 Read this block every run.
 
 - Never fake a screen. Evidence is the real file, the real line, the real number, or it is not
-  shown. When reality and the script differ, fix the script or fix the skill.
+  shown. When reality and the script differ, fix the script or fix the agent.
 - Real, and safe to show. A demo screen carrying another party's data is shown with their
   written permission, names and account numbers blurred. Say on screen that you have it.
   Blurring is not faking; inventing a number is.
@@ -30,7 +30,7 @@ Read this block every run.
 - One ask. Resource links tied to the exact on-screen step are unlimited and read as service;
   channel asks are at most 1, at the close. The same resource CTA may appear at the mid and the
   close, never in the same words twice.
-- Never write `squad/credibility-bank.md`. No skill in the kit builds that file.
+- Never write `squad/credibility-bank.md`. No agent in the kit builds that file.
 - Never send, never post, never publish. It writes its files and stops.
 
 ## The triggers
@@ -56,7 +56,7 @@ file, the week files live at youtube/squad/week/, 02_OUTLINE.md is retired. Memb
 ## The cage
 
 8 beats in this order, mined from beat-maps of 6 proven videos, one of them 161.7x its own
-channel (`references/script-cage.md`, shipped with this skill). The cage owns the order and the
+channel (`references/script-cage.md`, shipped with this agent). The cage owns the order and the
 proportions. The winner supplies the substance.
 
 | Beat | Job | Share |
@@ -131,7 +131,7 @@ Ask 2 things, in plain words:
 
 ## Step 4 · the prep
 
-Write `00_PREP.md` at the bar of `references/standard-ep1-prep.md` (shipped with this skill). Its
+Write `00_PREP.md` at the bar of `references/standard-ep1-prep.md` (shipped with this agent). Its
 `[SLOT]` markers flag the source founder's own content as slots to fill from this founder's
 business, never content to imitate.
 
@@ -139,8 +139,8 @@ It holds every beat of the cage, in the cage's order and under its 8 names, plus
 does not carry: the route in one line, each section's timing, its exact key lines in the founder's
 spoken words, the problem's quotes verbatim, the rubric stated, and the workflow as numbered beats
 showing the founder's paid work (the episode folder's `demo.mp4` named at the top when one
-exists), each ending with "See:". When the video demos one of our skills, its beats mirror that
-skill's run map one to one. The founder's margin over the winner is real clients, real dollar
+exists), each ending with "See:". When the video demos one of our agents, its beats mirror that
+agent's run map one to one. The founder's margin over the winner is real clients, real dollar
 amounts, screens of the thing working, and the parts they got wrong.
 
 Plain fourth-grade words, plain beat titles inside the workflow ("The checklist goes up", never
@@ -156,7 +156,7 @@ What keeps a prep honest:
 - No credibility bank: the founder's stated receipts are the source. List them, confirm each is
   sayable as written before the prep locks, and never reach past them.
 - No voice file: the default is `squad/voice.md`, and this run writes that path into the roots
-  file the first time it fills it, so no later skill asks again. 3 things count as the anchor:
+  file the first time it fills it, so no later agent asks again. 3 things count as the anchor:
   a recording, a writing sample the founder already wrote, or 4 or 5 sentences they type about the
   last client problem they fixed. No anchor of any kind: say so in the prep, and the shipped bar
   files are then STRUCTURE ONLY, no sentence of their prose reused.
@@ -180,7 +180,7 @@ prep, never into a script.
 
 ## Step 6 · the script
 
-Only after the yes. The bar is `references/standard-ep1-script.md` (shipped with this skill): what
+Only after the yes. The bar is `references/standard-ep1-script.md` (shipped with this agent): what
 transfers is the format, the markers table, the demo density, the performance cues, and how
 fourth-grade words read out loud at this length. A marker never sits inside a sentence; it gets its
 own line, and the prose stays clean for reading aloud.
@@ -210,7 +210,7 @@ The laws:
 The demo is the founder's paid work, inside the workflow beats: the recording they made while
 doing the job (`demo.mp4`, named in `00_PREP.md`), played and talked over. Never the job redone
 live on camera. Every demo opens with the result, then shows how it was reached. When the demo
-is a skill, the pacing is the triplet, narration between each pair:
+is an agent, the pacing is the triplet, narration between each pair:
 
 **I type:** "..."
 
@@ -225,7 +225,7 @@ past 15. A setup line before each section, the why before each prompt, first per
 voice to the roots file's voice file; the winner's transcript comes last, a structure reference
 only, never a voice to imitate. The product word is the roots file's, never its banned synonyms
 (in the source repo, "system", never "machine"). No em dashes; sweep against
-`references/humanizer.md` (shipped with this skill). Dollar amounts as spoken words, since the
+`references/humanizer.md` (shipped with this agent). Dollar amounts as spoken words, since the
 founder reads this aloud.
 
 Then walk the winner inventory from step 2 and confirm each item is covered or consciously
@@ -238,7 +238,7 @@ Final check before it reaches the founder, 4 lenses, fix what dies:
    jumped is "one real session, waits jumped", never "live".
 2. The language cage. Sentence length, banned words, dollar spelling, idioms, voice against the
    anchor.
-3. Claims. Every number against the founder's receipts, every demo beat against the demoed skill's
+3. Claims. Every number against the founder's receipts, every demo beat against the demoed agent's
    run map, every typed command against the shipped README, every demo screen against the
    safe-to-show rule.
 4. Flow. Word counts at the roots file's wpm (default 110) plus pauses against the stated
@@ -249,7 +249,7 @@ Final check before it reaches the founder, 4 lenses, fix what dies:
 The script is locked and nothing here edits it. Next is the record, then the cut. Never offer a
 slide build: the live screen is the deck, and the `[SCREEN:]` lines are the shot list.
 
-Close: "The script is locked. The recording is yours; the cut comes after. This skill stops here."
+Close: "The script is locked. The recording is yours; the cut comes after. This agent stops here."
 
 ## Rules
 

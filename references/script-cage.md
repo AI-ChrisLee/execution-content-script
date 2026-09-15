@@ -67,5 +67,5 @@ not at an arbitrary pause; and the winners add four devices his draft lacked: th
 open-loop tease in the hook, the rubric-as-progress-bar, the pattern-break, and the
 bookend proof at the close.
 
-The full per-video beat maps were distilled into this skill's SKILL.md (the
+The full per-video beat maps were distilled into this agent's SKILL.md (the
 case section) the same day; the six video links above are the primary sources.
