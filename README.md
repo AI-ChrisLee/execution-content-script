@@ -2,20 +2,12 @@
 
 This agent is a base. Once you have done it your way, tell your squad "update the agent to do it like this."
 
-**Install.** Open Claude Code in your company folder and paste: "Install this agent:
-https://github.com/AI-ChrisLee/the-money-driven-script. Clone the whole folder into .claude/skills
-as the-money-driven-script, without the .git folder."
+It writes your YouTube script, `03_SCRIPT.md`, in your episode folder. First it writes the prep, `00_PREP.md`: the winning video outlined, every number next to its receipt, and what every tool costs, read off each tool's own page. You read the prep. Then it writes the script.
 
-**Quit and reopen Claude Code**, type `/`, and check that `the-money-driven-script` is on the list.
+**Install.** Installed with the one line on aichrislee.com/free (products/squad/install-line.md), then quit and reopen Claude Code.
 
-**Bring this week's 2 files:** the winner file the Winning Scrape wrote and the package file the
-Proven Package locked, both in `squad/week/`. Your offer document, `squad/business.md`, gives the
-video its one ask.
+**What it reads.** The package the Winning Scrape locked in `squad/week/`, and the winner file that package names. Your offer page, `squad/business.md`, says who the video is for. The real messages you gave your squad on day 1 are the voice.
 
-**Run it.** Say "Write the money script."
+**Run it.** Type "Write the money script." It asks 3 things: 1 real moment when something went wrong, broke or surprised you, whether any screen shows somebody else's data, and what on your screen shows the thing you sell working. Read the prep, fix a word, then type "The prep is approved." The script lands in the same folder.
 
-It asks 2 things. `00_PREP.md` lands in your episode folder, your whole video as an outline. Read
-it, fix a word, and say "The prep is approved." Then `03_SCRIPT.md` lands in the same folder.
-
-The lesson that runs it: C3, The Money Driven Script, in the Execution Squad classroom at
-aichrislee.com.
+It never records, posts or publishes. The recording is yours.

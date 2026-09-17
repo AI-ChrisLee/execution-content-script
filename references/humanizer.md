@@ -19,7 +19,7 @@ Sources: blader/humanizer (GitHub), Wikipedia "Signs of AI Writing", aiphrasefin
 ### Tier 1 - Strongest AI signals (ban completely)
 delve, tapestry, multifaceted, landscape, robust, testament, pivotal, underscore, encompass, realm, embark, interplay, intricate, nuance/nuanced, garner, paramount, commendable, meticulous, showcase, symphony (metaphorical), beacon, indelible, bustling, vibrant, enigma, unwavering, nestled, annals, bespoke
 
-Your own banned words come from the roots file's product-word field (the one noun you call your offer, plus the synonyms you never want said).
+Your product word is the `product word` row in `.claude/squad-roots.md`, the noun you call your offer. Use that word, never a synonym for it.
 
 **Exception:** `leverage` is allowed. It is fundamental business vocabulary: leverage question, highest-leverage anchor, asymmetric leverage. Do not flag or replace.
 
@@ -122,15 +122,15 @@ FIX: "The company launched a product. Third one this quarter."
 
 ### Uniform sentence length
 BAD: Every sentence between 15-25 words. No variation.
-FIX: Mix short punchy sentences with longer ones. Two words is fine. So is a forty-word sentence that takes its time.
+FIX: Mix short punchy sentences with longer ones. 2 words is fine. So is a 40-word sentence that takes its time.
 
 ### Formulaic paragraph structure
 BAD: Topic sentence > 3 supporting points > Summary sentence. Every paragraph.
-FIX: Vary structure. Start with a question. Drop the summary. Use one-sentence paragraphs sometimes.
+FIX: Vary structure. Start with a question. Drop the summary. Use 1-sentence paragraphs sometimes.
 
 ### Synonym cycling
 BAD: "The protagonist... the character... the figure... the hero..."
-FIX: Pick one or two terms and stick with them. Humans repeat words.
+FIX: Pick 1 or 2 terms and stick with them. Humans repeat words.
 
 ### False ranges
 BAD: "From ancient civilizations to modern societies..."
@@ -141,7 +141,7 @@ FIX: Be specific or drop it.
 
 ## 4. Formatting tells
 
-- Em dashes: NEVER use "---" or "—". Replace with commas, periods, or parentheses.
+- Em dashes: NEVER use "---" or the long dash (U+2014). Replace with commas, periods, or parentheses.
 - Excessive bold: Don't mechanically bold every key term.
 - Inline-header lists: Avoid the "**Bold term:** explanation" pattern in bullet lists.
 - Title Case headings: Use sentence case (only capitalize first word and proper nouns).

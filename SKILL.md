@@ -1,262 +1,81 @@
 ---
 name: the-money-driven-script
-description: Use this when the founder says "write the money script", "write my script", or "/the-money-driven-script", right after the winner file and the locked package exist. It writes the long-form YouTube script in 2 passes, a prep the founder reads first and then the script, on the 8-beat cage (hook, credibility, outline, problem, solution, workflow, FAQ, close), on one layer, the screen with the webcam bubble on it. Written to make money, not views: it delivers the promise the title sold, puts your paid work on the screen, and makes one ask.
+description: Use this when the founder says "Write the money script.", "write my script" or "/the-money-driven-script", when they type "The prep is approved.", or when they say "continue the money script". It reads the locked package, the winner file it names and squad/business.md, asks 3 things, writes 00_PREP.md in the episode folder with every number matched to a receipt, stops once, then writes 03_SCRIPT.md, the long-form YouTube script the founder reads on camera. It never records, posts or publishes.
 ---
 
 # The Money Driven Script
 
-Open a fresh run with this line, word for word:
+1 output: `<episode>/03_SCRIPT.md`, the script the founder reads on camera. `<episode>/00_PREP.md` comes first, and 1 stop sits between them.
 
-This agent is a base. Once you have done it your way, tell your squad "update the agent to do it like this."
+**The first message of a fresh run** (no `00_PREP.md` in the episode folder) carries this line, word for word:
 
-2 passes, one stop between. The prep IS the outline (route, timings, beats, key lines). The
-founder reads it, and the script inherits it word for word.
+> This agent is a base. Once you have done it your way, tell your squad "update the agent to do it like this."
+
+Open `references/the-rules.md`, `references/script-cage.md` and `references/humanizer.md` first. Missing: say the agent folder came without its `references/`, and stop.
 
 ## Never
 
-Read this block every run.
-
-- Never fake a screen. Evidence is the real file, the real line, the real number, or it is not
-  shown. When reality and the script differ, fix the script or fix the agent.
-- Real, and safe to show. A demo screen carrying another party's data is shown with their
-  written permission, names and account numbers blurred. Say on screen that you have it.
-  Blurring is not faking; inventing a number is.
-- Never invent a comment, a quote or a pattern-break. A comment is quoted verbatim with its real
-  handle or it does not appear.
-- Never invent the founder's workflow. Demoing their own process, ask for their real step list
-  and mirror that.
-- Never bake a raw URL into the script; a CTA says "link below". Everything a CTA promises exists
-  on publish day.
-- One ask. Resource links tied to the exact on-screen step are unlimited and read as service;
-  channel asks are at most 1, at the close. The same resource CTA may appear at the mid and the
-  close, never in the same words twice.
-- Never write `squad/credibility-bank.md`. No agent in the kit builds that file.
-- Never send, never post, never publish. It writes its files and stops.
+- Never fake a screen, a number, a comment, a quote or a moment. A number with no receipt never reaches the script.
+- A founder moment comes only from their answer to ask 1, with the same number of people: 1 client never becomes "some clients". A demo, a render or a test file is called what it is, never the real thing.
+- Somebody else's data goes on screen only with their written permission, names and account numbers blurred.
+- Never a raw URL in the script. The ask says "the link in the description". 1 link, said at most twice, never in the same words.
+- Never record, send, post or publish. This agent writes the prep, the script and the screen files the script names, and stops.
 
 ## The triggers
 
-- "Write the money script.", "write my script", `/the-money-driven-script`: write the prep.
-- "The prep is approved.": write the script.
-- "continue the money script": read the files on disk, never a session's memory. No `00_PREP.md`,
-  write the prep. A prep and no script, wait for the yes. Both there, say the script is locked
-  and stop.
+| The founder says | This run |
+|---|---|
+| "Write the money script.", "write my script", `/the-money-driven-script` | Steps 1 to 3: the prep, then stop |
+| "The prep is approved." | Step 4: the script |
+| "continue the money script" | Read the episode folder, never a session's memory. No `00_PREP.md`: step 1. A prep and no script: wait for "The prep is approved." Both there: say the script is locked, and stop |
 
-## The files
+## 1. Read
 
-- `00_PREP.md`, in the episode folder the package file's `episode:` line names.
-- `03_SCRIPT.md`, same folder. One hook, in the opening, in order. Never a section of alternates:
-  nothing downstream records them, reads them or swaps them in.
-- Those are the standard names. Never renumber, never invent an 01 or 02.
-- Only on the paths that need them: a title-only `<date>-package.md` in the week folder, and
-  `.claude/squad-roots.md`.
+- `.claude/squad-roots.md`: `founder name`, `voice sample`, `product word`, and `wpm` when that row exists (else 110).
+- The newest `squad/week/<date>-package.md`: the 3 titles, the `episode:` line and the `source winner:` line. The `episode:` line is the episode folder; create it when it is missing. No package: say "Run the Winning Scrape first. The script is written to your locked title." and stop.
+- The winner file the `source winner:` line names, never one picked by date: the `What it does:` line, the transcript, the top comments with their likes, the angle.
+- `squad/business.md`: WHO line 1 is the viewer, THE SENTENCE is what the video sells. Missing: the viewer comes from the winner file, and the prep says so in 1 line.
+- The 1 link: the URL on the `Book:` line of `squad/sales.md`, without the full stop after it, else the `cta` row of `.claude/squad-roots.md`. Neither: the prep says so in 1 line, and the ask reads "the link in the description".
 
-<!-- Chris's Execution repo only: /research writes 01_RESEARCH.md and stands in as the winner
-file, the week files live at youtube/squad/week/, 02_OUTLINE.md is retired. Members have neither. -->
+## 2. Ask 3 things
 
-## The cage
+1 message, word for word:
 
-8 beats in this order, mined from beat-maps of 6 proven videos, one of them 161.7x its own
-channel (`references/script-cage.md`, shipped with this agent). The cage owns the order and the
-proportions. The winner supplies the substance.
+1. Tell me 1 real moment when something went wrong, broke, or surprised you. If it has a number, where is it written down (a text, an email, a screenshot)? Drop that file in the episode folder.
+2. Does any screen show somebody else's data? If it does, do you have their permission, and what gets blurred?
+3. What on your screen shows the thing you sell working? A file, a recording, a dashboard.
 
-| Beat | Job | Share |
-|---|---|---|
-| HOOK | 1 sentence delivering the title's promise, the claim plus its number, echoing the locked package's MAIN title word for word. The finished result on screen inside 15 seconds, hard cut | ~5s |
-| CREDIBILITY | 1 line, 1 breath: why listen. Never a number with no receipt, never the same line as another episode. It sits between the promise and the outline | ~10s |
-| OUTLINE | 3 sentences painting the system doing it: what the viewer does, what it reaches, what lands at the end. These ARE the roadmap, spoken. Then the free line when something ships free with this video, otherwise the single action line. No runway | ~20s |
-| PROBLEM | The 1 problem this video kills, in the viewer's own words, off the winner's comments. Short, positive, ends on a turn into the solution | 5-10% |
-| SOLUTION | The concept in the founder's own read, and the short list it has to be true against by the end (the rubric). Concept only, zero commands | 5-10% |
-| WORKFLOW | The run: numbered beats, each ending in a visible result, a payoff every 60 to 90 seconds. Inside it, a stakes-flag, 1 pattern-break, skip-ahead on every wait, a mid re-grade, the mid CTA at the first marquee reveal | 55-75% |
-| FAQ | 3 to 5 real questions, 1 to 3 sentences each, from the winner's comments verbatim with handles or from real buyers. No real questions, no FAQ; it is earned, never invented | 5-10% |
-| CLOSE | The rubric re-graded, a fresh bookend proof, the payoff restated against the hook's promise, 1 soft ask plus a curiosity gap. Abrupt, never signal the ending early | 5-10% |
+No real moment, or no screen for ask 3: that spot reads NOT YET A BEAT in the prep. Never make one up.
 
-## Step 1 · the inputs
+## 3. Write the prep, then stop
 
-Identity resolves from `.claude/squad-roots.md`, read first (a repo carrying the legacy
-`.claude/spine-roots.md` keeps working: read it as the fallback): the founder's name, the product
-word and its banned synonyms, the episodes root, the week folder, the credibility bank path, the
-voice file, the wpm, the data sources. Fill any field this run learns, and never ask again for a
-field the file already answers. No roots file at all: say so, take `squad/episodes/` and
-`squad/week/` as the defaults, ask once for the founder's name and their product word, and write
-both into `.claude/squad-roots.md`, every other field "(none yet)".
+Write `<episode>/00_PREP.md`, these sections in this order. The shape, worked: `references/standard-ep1-prep.md`.
 
-3 inputs. Take the latest `<date>-package.md` in the week folder, then read ITS named winner
-file (the package names its source winner next to the episode-folder line); never infer the pair
-by date. The winner file `<date>-winner.md` is the substance, transcript and comments both. The
-offer document, at the roots file's data-sources path (default `squad/business.md`), sets who the
-viewer is and gives the mid CTA and the close ask their words; no document yet, ask for the
-audience and the offer in one question and say so plainly in the prep.
+1. `Layer: screen`. The founder's screen with their face in a small bubble in the corner, start to finish.
+2. **The pick.** The winner file's `What it does:` line, word for word, and its link.
+3. **The winner, outlined.** Section by section, what it says, with rough timings. Keep their order. Change 3 things only: their example becomes the founder's, and only a real one; their claims become claims the founder can prove on a screen; every section ends on something the viewer sees.
+4. **The beats**, in the cage's order (`references/script-cage.md`): HOOK, PROOF, PROBLEM, SOLUTION, WORKFLOW, CLOSE. Each with its times and its key lines word for word: the hook, the proof line, the close, and every line the viewer copies, marked HOLD.
+5. **The questions.** Real questions from the winner file's comments, verbatim, with where each was posted and its likes. Each one opens 1 workflow section, and the prep names which. A section with no real question opens on a plain setup line. Never an invented question.
+6. **The receipts.** A table, 1 row per number or claim the video says, and its receipt: a file in this folder, a page with its link, or a screen the founder shows. Under it, 1 line: `Numbers: N. Receipts: N.` The 2 counts match, or the prep is not done. A number with no receipt is deleted here and listed under **Deleted** with the reason.
+7. **The costs.** Every paid tool the video names: its cheapest paid plan, month to month, read off that tool's own pricing page, with the link and today's date. A page that shows no price to a plain fetch: ask the founder to open it in a browser and paste the cheapest monthly price, and the row says "read by the founder in a browser, <date>". No price after that: the row says so, and the script names the tool with no price.
+8. **The real moment**, the blur rows and the screen that shows the work, from step 2.
+9. **The voice.** The `voice sample` row is the writing sample. No sample: 1 line saying so, and the reference files are structure only.
+10. **The length and the link.** The minutes the founder named, else the minutes of the winner sections the outline keeps, plus the part only the founder has. The word target at the wpm. The 1 link, and the 2 places it is said. The 3 titles: each 1 line saying where in the outline the video keeps that title's promise. A title the outline cannot keep: "Swap title N in the package before the upload. This video does not deliver: <promise>."
 
-No winner file: route to /the-winning-scrape when it is installed here. Otherwise the founder
-names one winning video in their niche, pull its transcript, write `<date>-winner.md` by hand.
+Print the path and: "Read it. Fix a word. Then type: The prep is approved." Stop. A change goes back into the prep, never into a script.
 
-No package file: the founder's locked title IS the package. Ask for it, then write a
-`<date>-package.md` marked title-only at the top, carrying the 2 join lines the whole chain keys
-on, `episode: <episodes root>/epNN/` and `source winner: <date>-winner.md`. Name `epNN` by
-the-proven-package's rule (the first run `ep01`, every later run the next number after the highest
-existing), create that folder, name it in the prep, and point the founder at /the-proven-package
-for the thumbnail pairs. That file is ADOPTED, never competed with: the-proven-package's next run
-overwrites it in place, keeps its `episode:` and `source winner:` lines, and creates no new
-`epNN`. One episode, one folder, one package file.
+## 4. Write the script
 
-## Step 2 · the winner
+Only after "The prep is approved.", and never while ask 3's screen is still NOT YET A BEAT (Open items, `references/the-rules.md`). Write `<episode>/03_SCRIPT.md` off the approved prep. The format, worked: `references/standard-ep1-script.md`.
 
-Outline THEIR video first: section by section, what it says, in what order, with rough timings.
-Then inventory every claim, number, objection handled and demo. That is the coverage target. Mark
-anything deliberately dropped; anything unmarked appears in ours.
+1. `# <MAIN title>`, then `Layer: screen`, then `Words: N · M minutes at <wpm> words a minute`.
+2. The first sentence is the MAIN title, said out loud, alone in its paragraph, with a blank line after it.
+3. The hook, the proof line, the close and every copy line, word for word from the prep.
+4. `[SCREEN: app or file, what is visible]` on its own line, heading every workflow section and every screen change. Together they are the list of what to open before record.
+5. Every copy line: a `[HOLD]` line, then "Screenshot this.", then the line word for word.
+6. Every workflow section opens on its question from the prep, with a `[COMMENT: where, likes]` line above it, or on its setup line.
+7. Every section heading is `## MM:SS Name`: the time off the running word count at the wpm, the name in plain words a viewer would click, because those names become the chapters.
+8. The voice is the `voice sample`. The winner gives the order, never the voice.
+9. Every number a numeral. No em dashes. Swept against `references/humanizer.md`.
 
-Keep their order, their beats, the questions they answer. Change 3 things only: their tool or
-example becomes the founder's where the real thing exists, their claims become claims the founder
-can prove on a screen, and every beat ends with what the viewer sees (the `See:` line, and the
-`[SCREEN:]` line heading the beat).
-
-Cover almost everything the winner covers, pour it into the cage, then add the one thing they
-cannot copy: the founder's own paid work on the screen. Their spine stays, and the money chapter
-is appended where they stopped.
-
-## Step 3 · what only the founder has
-
-The layer is settled and you never ask it: screen, the founder's screen with the webcam bubble
-on it. A deck is a screen, the live screen is a screen. Write `Layer: screen` at the top of
-`00_PREP.md` and keep it for the whole video. The whole point of this script is the founder's own
-paid work on that screen, and a camera pointed at a face cannot carry it.
-
-Ask 2 things, in plain words:
-
-- The one real moment something pushed back, broke or surprised. No real one, and the beat is
-  marked NOT YET A BEAT. A faked pattern-break is worse than none.
-- For every screen carrying another party's data, that they gave written permission and which
-  names and account numbers get blurred. Settle it before any beat is drafted and write it into
-  that beat's row.
-
-## Step 4 · the prep
-
-Write `00_PREP.md` at the bar of `references/standard-ep1-prep.md` (shipped with this agent). Its
-`[SLOT]` markers flag the source founder's own content as slots to fill from this founder's
-business, never content to imitate.
-
-It holds every beat of the cage, in the cage's order and under its 8 names, plus what the cage
-does not carry: the route in one line, each section's timing, its exact key lines in the founder's
-spoken words, the problem's quotes verbatim, the rubric stated, and the workflow as numbered beats
-showing the founder's paid work (the episode folder's `demo.mp4` named at the top when one
-exists), each ending with "See:". When the video demos one of our agents, its beats mirror that
-agent's run map one to one. The founder's margin over the winner is real clients, real dollar
-amounts, screens of the thing working, and the parts they got wrong.
-
-Plain fourth-grade words, plain beat titles inside the workflow ("The checklist goes up", never
-"Install the rubric"), each demo step ending with what the viewer SEES. No changelogs, no defense
-of decisions: state what is true now.
-
-What keeps a prep honest:
-
-- Runtime comes from the winner's own runtime plus the money chapter appended at the end, unless
-  the founder names a number. A 7 minute winner covered in full is a 10 minute video. Padding to a
-  target is the over-caging failure.
-- The ending exists first. A prep without the close written is not done.
-- No credibility bank: the founder's stated receipts are the source. List them, confirm each is
-  sayable as written before the prep locks, and never reach past them.
-- No voice file: the default is `squad/voice.md`, and this run writes that path into the roots
-  file the first time it fills it, so no later agent asks again. 3 things count as the anchor:
-  a recording, a writing sample the founder already wrote, or 4 or 5 sentences they type about the
-  last client problem they fixed. No anchor of any kind: say so in the prep, and the shipped bar
-  files are then STRUCTURE ONLY, no sentence of their prose reused.
-- Only a summary of the winner, no transcript: the prep says so and the coverage claim shrinks to
-  match. Pull the real transcript whenever one is reachable.
-- Read the winner file's comments before drafting the problem or the FAQ. A comment-poor flag, a
-  COMMENTS UNREACHABLE flag, or fewer than 3 usable verbatim comments, and the FAQ is dropped
-  while the problem is stated from the founder's own buyer conversations, with no `[COMMENT:]`
-  marker anywhere in the script.
-- An unresolved [ASK] on a load-bearing item (a hook number, a quote, a beat's content) heads that
-  section NOT YET A BEAT, and the prep is not done. Open ASKs never sit formatted like finished
-  work.
-- Numbers agree everywhere. Every number appears once, or identically. Illustrations about the
-  audience's typical situation stay non-specific ("thousands of photos") so they cannot collide
-  with the demo's real numbers.
-
-## Step 5 · the yes
-
-Stop and bring the prep to the founder. Their yes opens the script. A redirect goes back into the
-prep, never into a script.
-
-## Step 6 · the script
-
-Only after the yes. The bar is `references/standard-ep1-script.md` (shipped with this agent): what
-transfers is the format, the markers table, the demo density, the performance cues, and how
-fourth-grade words read out loud at this length. A marker never sits inside a sentence; it gets its
-own line, and the prose stays clean for reading aloud.
-
-- The first line under the title is the layer line, verbatim from the prep: `Layer: screen`. One
-  per script.
-- `[SCREEN: exact app or file, what is visible]`, heading every workflow beat and every screen
-  flip, named exactly enough to stage before record. Those lines are the record-day screen list.
-- `[COMMENT: @handle]` whenever a real comment is quoted.
-- Episode-specific markers (`[CARD]`, `[JUMP CUT]`, their kind) are legal when the script's own
-  markers table defines them.
-
-The laws:
-
-- Beats are human moments: a stop, a typed input, a decision. A stretch where the system runs
-  alone is 1 beat, with lettered sub-headers inside it.
-- Everything the viewer must copy is scripted verbatim: a command, a chat answer, a text message,
-  a checklist. When the video ships a repo, every command matches its README character for character.
-- Mechanism is said, receipt is shown. A concept gets explained in words; evidence is the real
-  file, the real line, the real number, on the screen.
-- While the system runs, the narration names the devices the founder built inside it, plus one
-  honesty line in his own words.
-- No idioms. If a word needed explaining once ("the bar"), use the plain word ("the test").
-- The bookend echo is self-aware: the close calls back the hook's numbers as "the numbers you saw
-  at the start", never as a verbatim repeat.
-
-The demo is the founder's paid work, inside the workflow beats: the recording they made while
-doing the job (`demo.mp4`, named in `00_PREP.md`), played and talked over. Never the job redone
-live on camera. Every demo opens with the result, then shows how it was reached. When the demo
-is an agent, the pacing is the triplet, narration between each pair:
-
-**I type:** "..."
-
-**Claude asks:** "..."
-
-**Claude outputs:** "..."
-
-Bullets for every step that moves the screen, so the demo has pacing breaks instead of a wall.
-
-Language: talking to one friend. Fourth-grade reading level, 8 to 12 words a sentence, nothing
-past 15. A setup line before each section, the why before each prompt, first person. Anchor the
-voice to the roots file's voice file; the winner's transcript comes last, a structure reference
-only, never a voice to imitate. The product word is the roots file's, never its banned synonyms
-(in the source repo, "system", never "machine"). No em dashes; sweep against
-`references/humanizer.md` (shipped with this agent). Dollar amounts as spoken words, since the
-founder reads this aloud.
-
-Then walk the winner inventory from step 2 and confirm each item is covered or consciously
-dropped.
-
-Final check before it reaches the founder, 4 lenses, fix what dies:
-
-1. The contrarian. Steelman every counterargument the script invites, and demand a receipt for
-   every equivalence claim. Named check: the "live" overclaim. One real session with the waits
-   jumped is "one real session, waits jumped", never "live".
-2. The language cage. Sentence length, banned words, dollar spelling, idioms, voice against the
-   anchor.
-3. Claims. Every number against the founder's receipts, every demo beat against the demoed agent's
-   run map, every typed command against the shipped README, every demo screen against the
-   safe-to-show rule.
-4. Flow. Word counts at the roots file's wpm (default 110) plus pauses against the stated
-   timestamps, the mid CTA's position, dead stretches, whether the close fits its window.
-
-## Hand over
-
-The script is locked and nothing here edits it. Next is the record, then the cut. Never offer a
-slide build: the live screen is the deck, and the `[SCREEN:]` lines are the shot list.
-
-Close: "The script is locked. The recording is yours; the cut comes after. This agent stops here."
-
-## Rules
-
-- Summarising the winner instead of covering it. Thinner video, same length, no reason to watch
-  ours.
-- Over-caging the remake. The cage owns the title, the thumbnail and the hook; the winner owns the
-  body's order; the money chapter is appended where they stopped, never woven through. Forcing the
-  body into house frameworks is how a 10 minute video bloats to 20.
-- Mixing layers. A cut from the screen to the camera and back. One layer, start to finish; the
-  webcam bubble is the face.
+Run the checks at the end of `references/the-rules.md` and fix what fails. Print the path, the word count and the minutes, and: "The script is locked. Lines in square brackets, (pause), and the bold I type and Claude lines are for you. Never read them out loud. Record it, and save your recording and the SRT in <episode>. Take it through Descript, then type: Cut my raw take." Stop.

@@ -1,263 +1,138 @@
-> Worked example from the source repo: Ep1's locked script (2026-08-28), the bar every
-> script is judged against. It shows the source episode's content on purpose; your
-> script prints your business. `[SLOT: ...]` marks the Chris-only elements (his
-> receipts, his giveaway repo, his mined comments, his mid-CTA product, his dream
-> paragraph): slots your script fills from your own receipts, your own winner
-> file, and your own offer, never content to imitate.
-> This is an EXCERPT of a 16-minute script, not the whole file: the hook, one run
-> stretch with its full demo triplet, and the close. What transfers
-> is the format: the markers table, the demo density, the performance cues, and how
-> fourth-grade sentences read out loud at this length.
-> On numbers: the script says every dollar amount in spoken words, because the founder
-> reads it out loud. The prep may carry numerals; the script never does.
-> No voice anchor in your repo yet (no recording, no writing sample, no typed
-> sentences in `squad/voice.md`)? Then this file is STRUCTURE ONLY, and no sentence of
-> its prose may be reused.
+> Worked example: an excerpt of a script in the shape this agent writes, off the prep in
+> `standard-ep1-prep.md`: the hook, the proof, the first workflow section and the close. Written for this
+> reference on that prep's real inputs. Section times are where the prep plans them. It shows that video's
+> content on purpose. Copy the format: the 3 markers, the hold cue, the question that opens a section,
+> the triplet, numerals, short sentences that read out loud. Never the content. No `voice sample` row in
+> your repo: this file is structure only, and no sentence of it is reused.
+>
+> | Marker | Meaning |
+> |---|---|
+> | `[SCREEN: app or file, what is visible]` | The screen changes to this. Open it before you press record |
+> | `[COMMENT: where, likes]` | The real comment, shown as the real capture |
+> | `[HOLD]` | The next line stays on screen for 2 seconds, so it can be copied |
+> | `(pause)` | Stop. Do not fill the silence |
+>
+> Word count: `grep -v -E '^(#|>|\[|Layer:|Words:)' 03_SCRIPT.md | wc -w`, divided by the wpm.
 
-> **Cage note (2026-09-01):** this file predates the cage ruling. Read its sections
-> through the map in SKILL.md: HOOK = hook · WHY ME = credibility · ROADMAP = outline ·
-> NOT JUST YOU = problem, its three comments moving to the FAQ · THE RUN = solution
-> (the checklist beat) then workflow · THE END = close. Its layer line names the
-> source episode's screen layer: today a script names one of two layers, face or screen
-> (the webcam bubble on it; a deck is a screen), never switches, and every
-> `[SCREEN: ...]` line marks where the screen flips.
-
-# Ep1 script · THE WINNING OFFER `[SLOT: the whole episode]`
+# How I Automate 90% of My YouTube Channel With AI Agents (Claude Code)
 
 Layer: screen
+Words: 2,970 · 27 minutes at 110 words a minute
 
-**Format:** Claude Code open the whole run, the webcam bubble on. The finished card is
-on screen from second one.
-**Target runtime:** ~16:00 at 110 wpm. Hook = one sentence + the roadmap (the system in
-three) as ONE section (2026-08-28 lock).
-**The giveaway:** the agent is public and free at
-`https://github.com/AI-ChrisLee/the-winning-offer` (link goes in the description).
-`[SLOT: the giveaway; yours is whatever you actually ship free with this video, or
-nothing, and then the hook's third move is the single action line instead]`
-**Titles/thumbnails:** locked in the week's package file.
+## 00:00 How I automate almost 90% of my channel
 
-### Markers
+[SCREEN: Claude Code, the 3 agent folders in the skills folder]
 
-The two floor markers are `[COMMENT: @handle]` and `[SCREEN: exact app or file, what
-is visible]`, the line that marks where the screen flips. Everything else in this table
-is episode-specific, legal because this table defines it. Your script writes its own
-table the same way.
+This is how I automate almost 90% of my YouTube channel with AI agents in Claude Code.
 
-| Marker | Meaning |
-|---|---|
-| `[CARD]` | The finished one-page card on screen |
-| `[SCREEN: ...]` | The screen flips to the named app or file; what is visible is named |
-| `[COMMENT: @handle]` | The REAL comment, a real capture; a designed card only if the capture cannot be made |
-| `[LABEL: word]` | Kinetic single-word flash, tied to a b-roll cut (edit-time only; unused in Ep1) |
-| `[BOARD]` | The seven-gate scorecard |
-| `[GITHUB]` | The repo page as a beauty shot |
-| `[MONTAGE]` | Fast source montage covering a jump cut |
-| `(pause)` | Hold. Do not fill the silence. |
+3 agents. 1 finds a video people already want and clones a title that already won. 1 writes the
+script. 1 checks my Descript edit and sets up the upload.
 
----
+## 00:30 Why listen to me
 
-## 1 · HOOK · 0:00-0:25 (the roadmap lives inside the hook) `[SLOT: the claim and its number]`
+Today my AI business does $30K a month.
 
-`[CARD, small, under everything; push in on it at "free system"]`
+> 00:45 to 03:00, the problem and the count's rule, are left out of this excerpt.
 
-I found my ten thousand dollar business idea in thirty minutes, with a free
-system.
+## 03:00 Where your agents live
 
-`[SCREEN: the real run playing behind these three lines; show each thing
-actually happening as you name it (the five answers, the scrape crawling, the
-card landing)]`
+[COMMENT: under the winner, 2 likes]
 
-You only answer five questions. It reads every piece of data it can reach:
-Reddit, your competitors' YouTube comments, LinkedIn posts, articles. And it
-hands you the best offer you can sell, today.
+"Could you share that A.I. Content Team 'Master System Blueprint' pdf doc you made?"
 
-The system is free. Link below. Open a second tab and build yours while you
-watch.
+Somebody asked that under the video this one is built from. You don't need a PDF. Your agents are
+files, on your laptop.
 
-> Move 1 is one sentence with the number in it. Moves 2 and 3 are the three
-> roadmap sentences and the free line. Nothing else lives here: no runway, no
-> "in this video", no table of contents.
+[SCREEN: Claude Code, open in an empty folder]
 
----
+Open Claude Code in an empty folder. That folder is your company now.
 
-## 2 · WHY ME · 0:25-0:55 `[SLOT: the receipts; every number here is one you can receipt yourself]`
+Paste the 1 line from the link in the description. Then quit Claude Code and open it again.
 
-My previous company made sixty thousand dollars a month. I worked four hours a
-week on it. Finding that idea took me two years of switching.
+[SCREEN: Finder, the company folder, .claude/skills open with the agent folders inside]
 
-This system asks what a strategy firm asks. I am not saying it digs deeper than they do.
-It asks the same seven questions. In thirty minutes, not six weeks. And you do not
-need fifty grand to ask them.
+Each agent is a folder. The text file inside it is the agent. Every rule it follows is written in
+plain English, and you can read all of it.
 
-I studied over a hundred winners to build it. So you skip those hours.
+## 04:10 Find the video people already want
 
-> Note the hedge in the middle paragraph. The contrarian lens put it there: the
-> equivalence claim needed a limit before a skeptic supplied one.
+Now the part most people get wrong. What to make a video about.
 
----
+[SCREEN: Claude Code, the Winning Scrape running]
 
-## 4 · THE RUN · 2:00-14:20 (excerpt: the act opening and beats 2 and 3) `[SLOT: the entire run]`
+**I type:** "Run the Winning Scrape."
 
-One thing before we start.
+It hunts on its own. A ranked table comes back. Every row has a link and a score.
 
-I run my company with a squad. Not employees. Systems. Ten of them. I built every
-one myself, and they do the executing for me. I call them my Execution Squad.
+The score is simple math. Views, divided by what that channel usually gets.
 
-Today you meet member number one. The Winning Offer. Its whole job is one
-question: is this the right thing to sell?
-
-`[SCREEN: Claude Code, full frame from here]`
-
-I ran it on my business this week. Now watch it run. It stops three times. Only
-when a human has to decide. Everything else, it runs alone.
-
-### Beat 2 · The five answers · ~4:15
-
-**Claude asks:** five questions.
-
-`[push in: the five questions, full screen, readable]`
-
-- What do you sell, in one sentence?
-- Who buys it?
-- What does it cost, and how does it get delivered?
-- How did your last three customers find you?
-- Is there something you keep thinking you SHOULD sell instead?
-
-Why start here? Because your answers become the card. Garbage in, garbage card.
-Press pause. Look at question five.
+The winner I picked has 225,400 views. Its channel usually gets 6,297. That's 35.8 times. That video hit
+a nerve.
 
 (pause)
 
-That one catches the itch. The thing you keep almost switching to. I put that
-question in because I needed it myself. The itch goes ON the table, or it runs the
-table.
+Here's what broke this week. The feed it read to find what a channel usually gets failed on 2 of 3
+channels. So the hunt reads each channel's video list instead, with a free tool called yt-dlp.
 
-`[JUMP CUT: the answers already filled in; narrate over]`
+This next stop is the most important one in the whole run.
 
-Here are mine. Real business, real answers. My itch went in too: just sell a
-course instead. We will see what the data says about it.
+**I type:** "Take the pick."
 
-**My answers (copy-paste these into the terminal on camera):** `[SLOT: the answers]`
+[SCREEN: the winner file, open, scrolled from the numbers to the comments]
 
-1. I sell Execution Squad. A content system on your laptop, run by Claude Code.
-   One recording a week becomes thirty pieces that bring clients.
-2. Founders and experts whose offer already works, but nobody can find them
-   online.
-3. One-time payment, eighteen hundred dollars for the founding thirty. Installed
-   on their laptop in seven days, with a twice-weekly Hot Seat.
-4. My YouTube videos. All three watched one, clicked the link, and joined.
-5. I keep thinking I should just sell a 3D-websites course instead. The proven
-   lane. The easy sale.
+**Claude outputs:** `squad/week/2026-09-16-winner.md`
 
-### Beat 3 · Stop one: the playback, and the test · ~5:25
+The video and its numbers. The full transcript. What the thumbnail shows. The top comments, sorted by
+likes. And the angle, in 2 sentences.
 
-Now watch this part.
+> The titles and the thumbnails, the rest of System 1, are left out of this excerpt.
 
-**Claude says:** here is what I heard, in two sentences. Here is what I am about
-to research, and why.
+[HOLD]
 
-And before it touches the internet, it shows the test.
+Screenshot this. Run the Winning Scrape. Take the pick.
 
-`[BOARD: seven rows, all empty]`
+> 06:00 to 24:00, the rest of System 1, System 2 and System 3, are left out of this excerpt.
 
-Seven gates my offer has to pass. Can I find the buyer in numbers. Does the buyer
-have money. Is the problem expensive to keep. Is anyone already selling. Is there
-an empty seat. The value test. The number chain.
+## 24:00 The count
 
-Why show the test first? A grade only means something if you saw the test before
-the answers. We grade at the end. Receipts or nothing. Remember this board.
+Now the count I owe you.
 
-**Claude says:** do I have your yes?
+A job is 1 piece of work. Typing a line or pressing a button isn't the job. Whoever does the work gets
+the job.
 
-Nothing runs without a yes. I designed it that way. Research you did not agree to
-is research you will not trust.
+[SCREEN: the count, 1 line per block, filling in as I say it]
 
-**I type:** yes.
+The package is 10 jobs. The agent does all 10.
 
-> That is the triplet: **I type** / **Claude asks** / **Claude outputs**, scripted
-> word for word, narration between each pair. It is the chat-tool form. A GUI
-> walkthrough uses the `[SCREEN: exact app or file, what is visible]` line plus the spoken line and
-> bulleted navigation steps instead; a real-world artifact (an email, a text
-> message) appears as a blockquote, word for word. The beat is a human moment: a
-> stop, a typed input, a decision. The board going up before the research is THE
-> RUBRIC, installed early and re-graded on camera later.
+The script is 4 jobs. The agent does all 4.
 
----
+The edit is 8 jobs. Descript's AI does 4. Cut does the other 4.
 
-## 5 · THE END · 14:20-16:00 `[SLOT: the dream, the receipts, and the ask; the dream paragraph is Chris's money-and-family philosophy, never yours to reuse]`
+The listing is 5 jobs. Cut does all 5.
 
-So why does any of this matter.
+That's 27 jobs the AI does. Mine are 4. I record. I answer the stops. I make the deletes in Descript.
+I set the video up in YouTube Studio.
 
-(slower)
-
-Past a point, more money does not change your days. The only question left is
-where your time goes.
-
-That is what a squad is for. Ten systems: research, package, publish, count. And
-clients come in every week, without switching. Your hours go back to your family.
-And to the world.
+27 of 31. That's 87%. Almost 90%.
 
 (pause)
 
-You saw the numbers at the start. That company came out of about six years of
-building. A web agency. AI consulting. And two years of switching before the
-right idea showed up.
+And it's a count of jobs, not hours. Recording is still the biggest job on this list, and it's mine.
 
-(pause)
+## 25:30 What it costs
 
-Today you watched the same search take thirty minutes. And the price on this card
-is still the number I typed.
+[SCREEN: the Claude pricing page, then Descript's, then Higgsfield's]
 
-You have the first member now. It is in the description. Free. Run it tonight.
-Five answers. Your market's own words. Your page.
+The agents are free. 3 tools aren't.
 
-And if you want the whole method, every piece of how this system works: leave
-your email at the link below. I will send you the full breakdown. Next episode,
-member two finds my lane on YouTube. And the walking starts.
+Claude Pro is $20 a month. Descript starts at $24 a month, paid month to month. Higgsfield starts at $19.
 
-(tight, direct)
+That's about $63 a month for all 3. Every price came off that tool's own page.
 
-Stop choosing. Start.
+## 26:20 Start tonight
 
-`[HARD CUT]`
+The free roadmap has the 1 line that installs all 3 agents. It's the link in the description.
 
-> The bookend is self-aware ("You saw the numbers at the start"), never a verbatim
-> repeat. One ask, at the close, matching the real automation. The curiosity gap to
-> the next video is one sentence. No wind-down, no signalling the ending early.
+Tonight, type 1 line. Run the Winning Scrape. Then read your winner file before bed.
 
----
-
-## Appendix: the same script shape, non-software `[SLOT: all of it]`
-
-A bookkeeper's month-end close, the opening of its run. Different trade, same
-format: a markers table that defines its own screen markers, one beat per human
-moment, a GUI demo instead of the chat triplet. Read it for the shape only.
-
-Layer: screen
-
-| Marker | Meaning |
-|---|---|
-| `[SCREEN: exact app or file, what is visible]` | The screen flips to the named app or file |
-| `[LEDGER]` | The trial balance, full frame |
-
-This is a real client's month. A sanitised copy. The names and the account
-numbers are changed. The shape is real.
-
-### Beat 1 · The close starts · ~2:10
-
-`[SCREEN: the accounting app, the un-reconciled trial balance, the red count in the corner]`
-
-Here is where every month starts. Forty one lines nobody has looked at.
-
-- Open the client file.
-- Go to the trial balance.
-- Sort by unreconciled.
-
-Four things have to be true before I send this package. Reconciled. Classified.
-The note written. The package printed. That is the whole test, and we grade it at
-the end.
-
-> Same rubric job, no scorecard graphic needed. The list is spoken, it goes on
-> screen, and it gets re-read at the midpoint. Same demo law, different form: the
-> `[SCREEN:]` line names the screen, then the bulleted navigation steps give the
-> beat its pacing breaks.
+Next video, I run Meta ads with Claude and Higgsfield.
