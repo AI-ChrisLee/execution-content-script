@@ -58,7 +58,7 @@ plain English, and you can read all of it.
 
 Now the part most people get wrong. What to make a video about.
 
-[SCREEN: Claude Code, the Winning Scrape running]
+[SCREEN: Claude Code, execution-content-scrape running]
 
 **I type:** "Run the Winning Scrape."
 

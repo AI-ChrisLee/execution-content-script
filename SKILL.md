@@ -1,9 +1,9 @@
 ---
-name: the-money-driven-script
-description: Use this when the founder says "Write the money script.", "write my script" or "/the-money-driven-script", when they type "The prep is approved.", or when they say "continue the money script". It reads the locked package, the winner file it names and squad/business.md, asks 3 things, writes 00_PREP.md in the episode folder with every number matched to a receipt, stops once, then writes 03_SCRIPT.md, the long-form YouTube script the founder reads on camera. It never records, posts or publishes.
+name: execution-content-script
+description: Use this when the founder says "Write the money script.", "write my script" or "/execution-content-script", when they type "The prep is approved.", or when they say "continue the money script". It reads the locked package, the winner file it names and squad/business.md, asks 3 things, writes 00_PREP.md in the episode folder with every number matched to a receipt, stops once, then writes 03_SCRIPT.md, the long-form YouTube script the founder reads on camera. It never records, posts or publishes.
 ---
 
-# The Money Driven Script
+# execution-content-script
 
 1 output: `<episode>/03_SCRIPT.md`, the script the founder reads on camera. `<episode>/00_PREP.md` comes first, and 1 stop sits between them.
 
@@ -25,7 +25,7 @@ Open `references/the-rules.md`, `references/script-cage.md` and `references/huma
 
 | The founder says | This run |
 |---|---|
-| "Write the money script.", "write my script", `/the-money-driven-script` | Steps 1 to 3: the prep, then stop |
+| "Write the money script.", "write my script", `/execution-content-script` | Steps 1 to 3: the prep, then stop |
 | "The prep is approved." | Step 4: the script |
 | "continue the money script" | Read the episode folder, never a session's memory. No `00_PREP.md`: step 1. A prep and no script: wait for "The prep is approved." Both there: say the script is locked, and stop |
 

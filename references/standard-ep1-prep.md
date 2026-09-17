@@ -68,7 +68,7 @@ HOLD lines, word for word:
 | 6 | a channel that usually gets 6,297 | the winner file, the same row |
 | 7 | 35.8 times | row 5 divided by row 6 |
 | 8 | the feed failed on 2 of 3 channels | the hunt's own errors, 3 tries a channel, 2026-09-16 |
-| 9 | the last 60 days | the Winning Scrape's own search window |
+| 9 | the last 60 days | execution-content-scrape's own search window |
 | 10 | almost 1.7M views, on the title that became my second one | the watch page, 1,682,097 on 2026-09-16 |
 | 11 | 3 titles and 3 thumbnails | the package file |
 | 12 | 110 words a minute | the `wpm` row |
