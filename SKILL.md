@@ -33,7 +33,7 @@ Open `references/the-rules.md`, `references/script-cage.md` and `references/huma
 
 - `.claude/squad-roots.md`: `founder name`, `voice sample`, `product word`, and `wpm` when that row exists (else 110).
 - The newest `squad/week/<date>-package.md`: the 3 titles, the `episode:` line and the `source winner:` line. The `episode:` line is the episode folder; create it when it is missing. No package: say "Run the Winning Scrape first. The script is written to your locked title." and stop.
-- The winner file the `source winner:` line names, never one picked by date: the `What it does:` line, the transcript, the top comments with their likes, the angle.
+- The winner file the `source winner:` line names, never one picked by date: the `What it does:` line, the transcript, the top comments with their likes, the angle, and part 6, the structure.
 - `squad/business.md`: WHO line 1 is the viewer, THE SENTENCE is what the video sells. Missing: the viewer comes from the winner file, and the prep says so in 1 line.
 - The 1 link: the URL on the `Book:` line of `squad/sales.md`, without the full stop after it, else the `cta` row of `.claude/squad-roots.md`. Neither: the prep says so in 1 line, and the ask reads "the link in the description".
 
@@ -52,7 +52,7 @@ Write `<episode>/00_PREP.md`, these sections in this order. The shape, worked: `
 
 1. `Layer: screen`. The founder's screen with their face in a small bubble in the corner, start to finish.
 2. **The pick.** The winner file's `What it does:` line, word for word, and its link.
-3. **The winner, outlined.** Section by section, what it says, with rough timings. Keep their order. Change 3 things only: their example becomes the founder's, and only a real one; their claims become claims the founder can prove on a screen; every section ends on something the viewer sees.
+3. **The winner, outlined.** Part 6 of the winner file, every row, with 1 column added: Ours. Keep their order. Change 3 things only: their example becomes the founder's, and only a real one; their claims become claims the founder can prove on a screen; every section ends on something the viewer sees. A row of theirs the video drops says `Dropped` and why in 5 words. A winner file with no part 6 (written before it existed): outline off the transcript the same way, with rough timings.
 4. **The beats**, in the cage's order (`references/script-cage.md`): HOOK, PROOF, PROBLEM, SOLUTION, WORKFLOW, CLOSE. Each with its times and its key lines word for word: the hook, the proof line, the close, and every line the viewer copies, marked HOLD.
 5. **The questions.** Real questions from the winner file's comments, verbatim, with where each was posted and its likes. Each one opens 1 workflow section, and the prep names which. A section with no real question opens on a plain setup line. Never an invented question.
 6. **The costs.** Every paid tool the video names: its cheapest paid plan, month to month, read off that tool's own pricing page, with the link and today's date. A page that shows no price to a plain fetch: the row says so, and the script names the tool with no price.
