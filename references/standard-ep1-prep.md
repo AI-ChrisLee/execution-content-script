@@ -1,8 +1,7 @@
 > Worked example: a prep in the shape this agent writes, made for this reference on the real inputs of
-> 1 video on the source channel (the package, the winner file and the receipts of 2026-09-16). It shows
-> that video's content on purpose. `[SLOT: ...]` marks what your prep fills from your own package, your
-> own winner file, your own receipts, your own costs and your own voice sample. Copy the shape, never the
-> content.
+> 1 video on the source channel (the package and the winner file of 2026-09-16). It shows that video's
+> content on purpose. `[SLOT: ...]` marks what your prep fills from your own package, your own winner
+> file, your own costs and your own voice sample. Copy the shape, never the content.
 
 # Prep · How I Automate 90% of My YouTube Channel With AI Agents (Claude Code)
 
@@ -56,40 +55,6 @@ HOLD lines, word for word:
 | System 2, the script | No real question in the comments. Opens on its setup line: "A script sounds like AI when it's made of nothing." | | |
 | System 3, the edit and the upload | "how do you edited this video???" | under the best runner-up | 0 |
 
-## The receipts `[SLOT: every number and claim your video says]`
-
-| # | As the script says it | Receipt |
-|---|---|---|
-| 1 | the count: 10, 4, 8 and 5 jobs, 27 of 31 | the count, done on screen in the close |
-| 2 | almost 90% | row 1: 27 divided by 31 is 87% |
-| 3 | 3 agents | the skills folder, on screen |
-| 4 | $30K a month | Stripe statements, several months at that level |
-| 5 | 225,400 views | the winner file, the winner's row, with its link |
-| 6 | a channel that usually gets 6,297 | the winner file, the same row |
-| 7 | 35.8 times | row 5 divided by row 6 |
-| 8 | the feed failed on 2 of 3 channels | the hunt's own errors, 3 tries a channel, 2026-09-16 |
-| 9 | the last 60 days | execution-content-scrape's own search window |
-| 10 | almost 1.7M views, on the title that became my second one | the watch page, 1,682,097 on 2026-09-16 |
-| 11 | 3 titles and 3 thumbnails | the package file |
-| 12 | 110 words a minute | the `wpm` row |
-| 13 | chapters: the first at 0:00, at least 3, each 10 seconds or longer | support.google.com/youtube/answer/9884579 |
-| 14 | an A/B test takes a few days, up to 2 weeks | support.google.com/youtube/answer/16391400 |
-| 15 | $20 a month | the costs, row 1 |
-| 16 | $24 a month | the costs, row 2 |
-| 17 | $19 a month | the costs, row 3 |
-| 18 | about $63 a month | rows 15 to 17 added |
-
-Numbers: 18. Receipts: 18.
-
-### Deleted `[SLOT: yours]`
-
-- "I automate 90% of my channel." The count says 27 of 31, which is 87%. Said as "almost 90%", with the
-  count behind it.
-- "1.6M views." The page says 1,682,097 today. Said as "almost 1.7M".
-- "It shows your credit balance before and after." Nothing on screen shows a balance. Deleted.
-- "The script I'm reading right now was made this way." No prep and no script file existed for this
-  video. Deleted.
-
 ## The costs `[SLOT: every paid tool your video names]`
 
 | # | Tool | Cheapest paid plan, month to month | Read off | Date |
@@ -102,8 +67,6 @@ Numbers: 18. Receipts: 18.
 
 The feed the hunt read to find what a channel usually gets came back 404 or 500 on 2 of 3 channels. The
 channel list through yt-dlp worked on both. It goes in System 1, right after the score is explained.
-
-Blur: no screen shows anybody's private data. The comments on screen are public. Nothing blurred.
 
 ## The voice `[SLOT: your voice sample row]`
 

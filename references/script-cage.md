@@ -47,7 +47,7 @@ at most 1, at the close. The 2 biggest videos here have 0 or 1.
 | Beat | Job | Share |
 |---|---|---|
 | HOOK | The MAIN title said as the first sentence, the claim and its number. Then what the video does, in 1 breath. The finished result on screen inside 15 seconds | ~30s |
-| PROOF | 1 line, 1 breath: why listen. Every number in it has a receipt | ~10s |
+| PROOF | 1 line, 1 breath: why listen | ~10s |
 | PROBLEM | The 1 problem this video kills, in the viewer's own words, off the winner's comments. Short, ends on a turn into the solution | 5 to 10% |
 | SOLUTION | The idea in the founder's own words, and the short list the video has to be true against by the end (the rubric). No commands | 5 to 10% |
 | WORKFLOW | The run. Each section opens on a real question from the comments, or on a setup line, and ends on something visible, a payoff every 60 to 90 seconds. Inside: 1 line flagging the most important moment, the real moment from the prep, every wait cut, the rubric graded halfway, the 1 link right after the first big result | 60 to 75% |
